@@ -1,4 +1,3 @@
-<img src="https://github.com/Perfecto-Quantum/Quantum-Starter-Kit/blob/master/DOC/image/perfecto.jpg" height="75" width="300"/>
 
 ![CircleCI status](https://circleci.com/gh/Perfecto-Quantum/Quantum-Starter-Kit.svg?style=shield "CircleCI status")
 
